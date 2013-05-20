@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USCityImageViewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_img_fragment">ImgFragmentActivity</string>
+    <string name="title_activity_viewer_activity">ViewerActivityActivity</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_custom_window">CustomWindow</string>
+
+</resources>

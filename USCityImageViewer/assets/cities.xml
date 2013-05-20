@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<city>
+	    <name>New York</name>
+	    <rank>1</rank>
+	    <population>8244910</population>
+	</city>
+	<city>
+	    <name>Los Angeles</name>
+	    <rank>2</rank>
+	    <population>3819702</population>
+	</city>
+	<city>
+	    <name>Chicago</name>
+	    <rank>3</rank>
+	    <population>2707120</population>
+	</city>
+	<city>
+	    <name>Houston</name>
+	    <rank>4</rank>
+	    <population>2145146</population>
+	</city>
+	<city>
+	    <name>Philadelphia</name>
+	    <rank>5</rank>
+	    <population>1536471</population>
+	</city>
+	<city>
+	    <name>Phoenix</name>
+	    <rank>6</rank>
+	    <population>1469471</population>
+	</city>
+	<city>
+	    <name>San Antonio</name>
+	    <rank>7</rank>
+	    <population>1359758</population>
+	</city>
+	<city>
+	    <name>San Diego</name>
+	    <rank>8</rank>
+	    <population>1326179</population>
+	</city>
+	<city>
+	    <name>Dallas</name>
+	    <rank>9</rank>
+	    <population>1223229</population>
+	</city>
+	<city>
+	    <name>San Jose</name>
+	    <rank>10</rank>
+	    <population>967487</population>
+	</city>
+	
+</root>
